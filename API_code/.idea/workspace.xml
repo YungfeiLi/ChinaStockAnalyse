@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07d901bd-3756-4a0b-b98e-267d15ce8d17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_300_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert_weight_to_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160301.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160401.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160501.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160701.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160801.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20160901.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20161001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20161101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20161201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170301.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170401.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170501.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170701.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170801.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20170901.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20171001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_000001.sh/20171101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160301.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160401.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160501.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160701.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160801.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20160901.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20161001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20161101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20161201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170301.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170401.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170501.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170701.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170801.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20170901.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20171001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399001.sz/20171101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160301.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160401.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160501.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160701.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160801.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20160901.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20161001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20161101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20161201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170301.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170401.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170501.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170601.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170701.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170801.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20170901.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20171001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/weight_399300.sz/20171101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../get_300_weight.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stockCode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+              <folding>
+                <element signature="e#111#131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stockCode.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-45" />
+    <option name="y" value="85" />
+    <option name="width" value="1485" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07d901bd-3756-4a0b-b98e-267d15ce8d17" name="Default Changelist" comment="" />
+      <created>1543233360246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543233360246</updated>
+      <workItem from="1543233361675" duration="1513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1513000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/get_sh_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stockCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding>
+            <element signature="e#111#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
